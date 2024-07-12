@@ -1,1 +1,2 @@
-hi
+o = save
+x = exit
